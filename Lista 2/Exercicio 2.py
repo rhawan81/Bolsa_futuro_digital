@@ -4,4 +4,4 @@ num1 = int(input('Informe um numero : '))
 num2 = int(input('Informe um numero:'))
 
 subtrair = num1 - num2
-print(f'A substração é {subtrair}')
+print(f'A subtração é {num1 - num2}')
